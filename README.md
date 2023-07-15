@@ -1,4 +1,5 @@
-**This is a HoneyPot VirtualMachine - interactive lab \n**
+**This is a HoneyPot VirtualMachine - interactive lab**
+
 The project is meant to lure attackers to attempt to log into the VM. I disabled firewalls, port blocking, and disabled all Azure security features.
 
 **Live Attack Map**
